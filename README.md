@@ -14,10 +14,10 @@ content="width=device-width, initial-scale=1.0">
 
 
 
+
 package aula_1;
 import java.util.*;
 public class teste {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 Scanner sc = new Scanner(System.in);
