@@ -9,7 +9,7 @@ content="width=device-width, initial-scale=1.0">
 <body>
 <h1>Bem-vindo ao GitHub Pages!</h1>
 </body>
-</html>.
+</html>
 
 
 package aula_1;
