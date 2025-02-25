@@ -10,9 +10,6 @@ content="width=device-width, initial-scale=1.0">
 <h1>Bem-vindo ao GitHub Pages!</h1>
 </body>
 </html>
-
-
-
 package aula_1;
 import java.util.*;
 public class teste {
